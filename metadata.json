@@ -1,0 +1,5 @@
+{
+  "name": "Gold OI Quant Analyzer",
+  "description": "Real-time Gold (XAU/USD) vs Futures Open Interest analysis tool using Gemini AI to detect institutional flow and sentiment.",
+  "requestFramePermissions": []
+}

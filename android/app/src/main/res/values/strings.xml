@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Gold OI Analyzer</string>
+    <string name="title_activity_main">Gold OI Analyzer</string>
+    <string name="package_name">com.goldoi.quantanalyzer</string>
+    <string name="custom_url_scheme">com.goldoi.quantanalyzer</string>
+</resources>
